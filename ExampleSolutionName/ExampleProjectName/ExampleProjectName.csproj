@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>ExampleProjectName.App</StartupObject>
+    <Authors>ExampleAuthor</Authors>
+    <Company />
+    <Product>$(AssemblyName) </Product>
+    <Description>ExampleDescription</Description>
+    <PackageProjectUrl>ExampleGitHubUrl</PackageProjectUrl>
+    <RepositoryUrl>ExampleGitHubUrl</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ExampleTags</PackageTags>
+  </PropertyGroup>
+
+</Project>

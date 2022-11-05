@@ -1,0 +1,7 @@
+Parameter that I need
+ExampleAuthor
+ExampleProjectName
+ExampleSolutionName
+ExampleDescription
+ExampleGitHubUrl
+ExampleTags
