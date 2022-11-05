@@ -22,7 +22,7 @@ namespace ExampleProjectName
     {
         public MainWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
     }
 }
